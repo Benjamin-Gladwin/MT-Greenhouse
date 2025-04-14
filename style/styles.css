@@ -1,12 +1,12 @@
 p {
     text-align: center;
-    font-family: 'DpQuake', sans-serif;
+    font-family: 'Magical Horison', sans-serif;                               
     color: white;
     padding-top: auto;
 }
 
 html {
-    background-image: url(MontyTechDrone.png);
+    background-image: url(PlantBG.jpg);
     background-size: auto;
 
 }
@@ -73,7 +73,7 @@ h1 {
 
 body {
     background-image: url();
-    font-family: 'DpQuake', sans-serif;
+    font-family: 'Magical Horison', sans-serif;                                         
     min-height: 100vh;
 }
 
@@ -88,7 +88,7 @@ nav {
 
 .card {
     border: solid black;
-    background-image: url(crackedbrick.png);
+    background-image: url(PlantBG.jpg);
 
 }
 
@@ -103,7 +103,7 @@ nav {
 
 .btn-primary {
     color: white;
-    background-image: url(redbrick.png);
+    background-image: url(PlantBG.jpg);
     border: solid black;
 }
 
@@ -124,6 +124,6 @@ nav {
     margin-right: auto;
 }
 .brickbg {
-    background-image: url(quakebrick.png);
+    background-image: url(PlantBG.jpg);
     border: solid black;
 }
