@@ -1,7 +1,7 @@
 p {
     text-align: center;
     font-family: 'Magical Horison', sans-serif;                               
-    color: white;
+    color: black;
     padding-top: auto;
 }
 
@@ -73,7 +73,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    
+    background-attachment: fixed;
 }
 
 nav {
@@ -124,5 +124,9 @@ nav {
 }
 .brickbg {
     background-image: url(PlantBG.jpg);
+    border: solid black;
+}
+.rockview {
+    background-image: url(DarkRockBG.jpg);
     border: solid black;
 }
