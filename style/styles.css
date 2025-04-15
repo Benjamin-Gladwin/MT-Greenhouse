@@ -130,3 +130,9 @@ nav {
     background-image: url(DarkRockBG.jpg);
     border: solid black;
 }
+.slide {
+    size: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
