@@ -87,7 +87,7 @@ nav {
 
 .card {
     border: solid black;
-    background-image: url(PlantBG.jpg);
+    background-image: url(greenfoliage.png);
 
 }
 
@@ -102,7 +102,7 @@ nav {
 
 .btn-primary {
     color: white;
-    background-image: url(PlantBG.jpg);
+    background-image: url(MT-Greenhouse\plants\greenfoliage.png);
     border: solid black;
 }
 
